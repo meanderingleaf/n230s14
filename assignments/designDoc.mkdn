@@ -6,68 +6,69 @@ Specifications
 -----------------------------------
 
 8 pages
-	- Including images, cover page
-	- Needs a cover page
-		- Cover page should have your name, date, class number, and title of your game
-	- Single spaced, 12 point, Arial/Helvetica font
+
+- Including images, cover page
+- Needs a cover page
+	- Cover page should have your name, date, class number, and title of your game
+- Single spaced, 12 point, Arial/Helvetica font
 
 Game Name
 -----------------------------------
 
-	- Don't forget this
+- Don't forget this
 
 Description of the game world
 ------------------------------------
 
-	- Include art
-	- Where is this world?
-	- What is it like?
+- Include art
+- Where is this world?
+- What is it like?
 
-		A completely *non exhaustive* list
+A completely *non exhaustive* list
 
-		- What are the politics of the world?
-		- Technology/magic/blissful ignorance of both?
-		- What language do they speak?
-		- What kind of music do they listen to?
-		- What are the Important Concerns of the day?
+- What are the politics of the world?
+- Technology/magic/blissful ignorance of both?
+- What language do they speak?
+- What kind of music do they listen to?
+- What are the Important Concerns of the day?
 
-	- Perhaps a map would be useful?
+- Perhaps a map would be useful?
 
 Backstory for the game
 ------------------------------------
 
-	- What brought these characters up to the point they are now at?
+- What brought these characters up to the point they are now at?
 
 
 Three unique characters
 -------------------------------------	
 
-	- Include art for each
-	- Describe who they are
-		- What are their motivations / goals
-		- Why do they dress like *that*?
-		- What's their story,  their history?
+- Include art for each
+- Describe who they are
+	- What are their motivations / goals
+	- Why do they dress like *that*?
+	- What's their story,  their history?
 
 Game play
 -------------------------------------
 
-	- Be specific
+- Be specific
 
-	- Game genre?
+- Game genre?
 
-	- How does the game play?
-		- What is the goal of the game (how does the player win)?
-		- How does the player reach that goal?
-		- Include drawings (with labels) if it helps
-	- What are the controls of the game?
-	- What does the game interface look like (another drawing would help here)
-	- Draw out a sample game level, perhaps
-	- How many levels are in the game?
-		- Are there bosses?
-	- What is the intended difficulty of the different levels?
+- How does the game play?
+	- What is the goal of the game (how does the player win)?
+	- How does the player reach that goal?
+	- Include drawings (with labels) if it helps
+- What are the controls of the game?
+- What does the game interface look like (another drawing would help here)
+- Draw out a sample game level, perhaps
+- How many levels are in the game?
+	- Are there bosses?
+- What is the intended difficulty of the different levels?
 
 Game market
 --------------------------------------
 
-	- Describe who is the game for
-	- Describe why that market would want to play this game
+- Describe who is the game for
+- Describe why that market would want to play this game
