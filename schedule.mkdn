@@ -1,0 +1,106 @@
+
+1
+------------------
+
+**Intro, game design document**
+
+- Intro to the class
+- Why a game design document
+- Purpose of the GDD
+- World building, character building
+	- outlandishly brief overview
+
+Reading:
+
+http://www.sloperama.com/advice/specs.htm
+http://www.gamasutra.com/view/feature/3384/
+
+Samples:
+http://www.gamasutra.com/view/feature/1709/design_document_play_with_fire.php
+http://5years.doomworld.com/doombible/doombible.pdf
+
+
+2
+-------------------
+
+**Game design document**
+
+- Character design
+	- Form
+	- Colors
+
+- Work with others to refine game design idea
+
+3
+-------------------
+
+**Unity for beginners**
+
+- Game design critique
+
+4
+--------------------
+
+
+
+5
+--------------------
+
+
+
+
+
+6
+---------------------
+
+
+
+
+7
+-------------------------
+
+
+
+8
+-------------------------
+
+
+9
+----------------------------
+
+
+
+10
+----------------------------
+
+
+
+11
+----------------------------
+
+
+
+12
+-------------------------
+
+
+
+13
+--------------------------
+
+
+
+14
+-----------------------------
+
+
+
+
+15
+------------------------------
+
+
+
+16
+-----------------------------
+
